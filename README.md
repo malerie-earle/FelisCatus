@@ -1,5 +1,8 @@
 # FelisCatus
 Website created for software development program assignment. <br />
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6063184b-c2f6-464d-958a-c797de0adcb1/deploy-status)](https://app.netlify.com/sites/feliscatus/deploys)
+
 <br />
 Teacher Feedback: <br />
 "Very nice work. 10/10." - Maurice Baubin
