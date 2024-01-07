@@ -2,6 +2,7 @@
 Website created for software development program assignment. <br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6063184b-c2f6-464d-958a-c797de0adcb1/deploy-status)](https://app.netlify.com/sites/feliscatus/deploys)
+<img width="1428" alt="feliscatus" src="https://github.com/malerie-earle/FelisCatus/assets/141525464/ebc992d3-22f0-4f90-b12e-d6ca991778e6">
 
 <br />
 Teacher Feedback: <br />
